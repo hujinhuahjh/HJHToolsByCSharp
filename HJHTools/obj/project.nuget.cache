@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bvy0EDPjX/I=",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Project\\Rider\\HJHTools\\HJHTools\\HJHTools.csproj",
+  "expectedPackageFiles": [
+    "D:\\Dev\\Env\\Nuget\\repository\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "D:\\Dev\\Env\\Nuget\\repository\\prism.container.abstractions\\9.0.106\\prism.container.abstractions.9.0.106.nupkg.sha512",
+    "D:\\Dev\\Env\\Nuget\\repository\\prism.core\\9.0.537\\prism.core.9.0.537.nupkg.sha512",
+    "D:\\Dev\\Env\\Nuget\\repository\\prism.events\\9.0.537\\prism.events.9.0.537.nupkg.sha512"
+  ],
+  "logs": []
+}

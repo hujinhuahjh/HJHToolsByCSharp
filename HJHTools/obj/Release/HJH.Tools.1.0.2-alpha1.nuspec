@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HJH.Tools</id>
+    <version>1.0.2-alpha1</version>
+    <authors>HJH</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>This is hjh's prival package, using by C# dev</description>
+    <tags>hjh HJH</tags>
+    <repository url="https://github.com/hujinhuahjh/HJHToolsByCSharp" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Prism.Core" version="9.0.537" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Dev\Project\Rider\HJHTools\HJHTools\bin\Release\net6.0-windows\HJHTools.dll" target="lib\net6.0-windows7.0\HJHTools.dll" />
+    <file src="D:\Dev\Project\Rider\HJHTools\HJHTools\README.md" target="\README.md" />
+  </files>
+</package>

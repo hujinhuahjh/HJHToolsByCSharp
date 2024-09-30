@@ -1,6 +1,6 @@
 namespace HJHTools.Event
 {
-#pragma warning disable CS8602 // 解引用可能出现空引用。
+    #pragma warning disable CS8602 // 解引用可能出现空引用。
     public static class EventBus
     {
         private static IEventAggregator? _eventAggregator;

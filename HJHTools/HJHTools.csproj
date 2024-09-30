@@ -10,7 +10,7 @@
         <Company>Myself</Company> <!-- 公司名（可选） -->
         <PackageDescription>This is hjh's prival package, using by C# dev</PackageDescription> <!-- 包的描述 -->
         <PackageTags>hjh; HJH</PackageTags> <!-- 关键词，便于搜索 -->
-        <RepositoryUrl>https://github.com/YourRepo</RepositoryUrl> <!-- 源代码仓库 URL（可选） -->
+        <RepositoryUrl>https://github.com/hujinhuahjh/HJHToolsByCSharp</RepositoryUrl> <!-- 源代码仓库 URL（可选） -->
         <PackageLicenseExpression>MIT</PackageLicenseExpression> <!-- 使用的许可证 -->
     </PropertyGroup>
 

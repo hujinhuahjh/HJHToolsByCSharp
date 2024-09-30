@@ -1,0 +1,12 @@
+D:\Dev\Project\Rider\HJHTools\HJHTools\bin\Debug\net6.0\HJHTools.deps.json
+D:\Dev\Project\Rider\HJHTools\HJHTools\bin\Debug\net6.0\HJHTools.dll
+D:\Dev\Project\Rider\HJHTools\HJHTools\bin\Debug\net6.0\HJHTools.pdb
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.csproj.AssemblyReference.cache
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.AssemblyInfoInputs.cache
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.AssemblyInfo.cs
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.csproj.CoreCompileInputs.cache
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.dll
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\refint\HJHTools.dll
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\HJHTools.pdb
+D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Debug\net6.0\ref\HJHTools.dll

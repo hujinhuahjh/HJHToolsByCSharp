@@ -10,3 +10,4 @@ D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Release\net6.0-windows\HJHTools.dll
 D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Release\net6.0-windows\refint\HJHTools.dll
 D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Release\net6.0-windows\HJHTools.pdb
 D:\Dev\Project\Rider\HJHTools\HJHTools\obj\Release\net6.0-windows\ref\HJHTools.dll
+D:\Dev\Project\Rider\HJHTools\HJHTools\bin\Release\net6.0-windows\NLog.config

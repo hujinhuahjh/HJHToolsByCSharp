@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("HJHTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HJHTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/YourRepo")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/hujinhuahjh/HJHToolsByCSharp")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

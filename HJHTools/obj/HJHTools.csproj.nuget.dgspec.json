@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\Dev\\Project\\Rider\\HJHTools\\HJHTools\\HJHTools.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.2-alpha2",
       "restore": {
         "projectUniqueName": "D:\\Dev\\Project\\Rider\\HJHTools\\HJHTools\\HJHTools.csproj",
         "projectName": "HJH.Tools",
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -41,12 +41,32 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "dependencies": {
+            "Masuit.Tools.Core": {
+              "target": "Package",
+              "version": "[2024.5.8, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "Nethereum.Hex": {
+              "target": "Package",
+              "version": "[4.25.0, )"
+            },
             "Prism.Core": {
               "target": "Package",
               "version": "[9.0.537, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Z.ExtensionMethods": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
